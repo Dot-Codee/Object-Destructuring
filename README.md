@@ -3,11 +3,13 @@ Object destructuring is a feature in Javascript that allows you to extract value
 
 Let's start by looking at an example of an object in Javascript:
 
+```
 const person = {
   name: "John",
   age: 30,
   occupation: "Software Developer"
 };
+```
 
 This object has three properties: "name", "age", and "occupation". To access the values of these properties, you can use the dot notation:
 
